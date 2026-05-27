@@ -62,6 +62,3 @@ I take on data projects for small and medium businesses:
 
 ---
 
-## 📊 GitHub Stats
-
-![Suhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuhailDataScience&show_icons=true&theme=default&hide_border=true)
